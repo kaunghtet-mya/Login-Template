@@ -1,7 +1,8 @@
 body{
   background-image: url('bg_image1.jpg');
   background-size: cover;
-  height: 100%;
+  height:100vh;
+  
 }
 .box{
   background-color: transparent;
