@@ -1,11 +1,11 @@
 body{
   background-image: url('bg_image1.jpg');
   background-size: cover;
-  background-repeat: none;
+  background-repeat: no-repeat;
   height: 100%;
 }
 .box{
-  background-color: #565a5b;
+  background-color: red;
   text-align: center;
   width: 400px;
   position: relative;
