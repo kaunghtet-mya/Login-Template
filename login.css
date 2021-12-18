@@ -34,6 +34,7 @@ body{
   padding: 10px;
 }
 .form_btn{
+  border-width: 20%;
   background: transparent;
   border-radius: 5px;
   border-color: #af1b17;
@@ -57,10 +58,4 @@ body{
    border:2px solid cyan;
    
  }
- .link{
-   color: white;
-   text-decoration: none;
- }
- a:hover{
-   color: white;
- }
+ 
